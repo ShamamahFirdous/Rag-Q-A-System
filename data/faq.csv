@@ -1,0 +1,6 @@
+question,answer
+"What is RAG?","Retrieval-Augmented Generation fetches documents and answers using both retrieval and generation."
+"Why use RAG?","Because it grounds LLMs in real knowledge, reducing hallucinations."
+"What is FAISS?","Facebook AI Similarity Search is a fast vector similarity search library used for retrieval."
+"Can RAG handle PDFs?","Yes, it can load and chunk PDFs using PyMuPDF or other loaders."
+"Can I use my own data?","Absolutely. Just place your files into the /data folder and re-run ingest.py."

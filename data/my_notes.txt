@@ -1,0 +1,9 @@
+These are personal notes written by the user.
+
+The user is learning how to build a local RAG system using LangChain, FAISS, Hugging Face embeddings, and Ollama.
+
+The goal is to understand how ingestion, chunking, embeddings, retrieval, and generation work together.
+
+This project helped clarify that the model only answers based on the content provided in the data folder.
+
+Adding more files improves the assistant’s ability to answer diverse questions.

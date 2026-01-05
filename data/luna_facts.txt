@@ -1,0 +1,8 @@
+Personal facts:
+
+My dog’s name is Luna.
+Luna is a friendly dog.
+Luna likes playing and going on walks.
+Luna is not related to RAG or AI.
+
+This file exists to test whether the RAG system can answer personal questions correctly when the information is present in the knowledge base.

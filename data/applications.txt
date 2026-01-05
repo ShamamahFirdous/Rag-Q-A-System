@@ -1,0 +1,11 @@
+RAG is widely used in real-world applications where accuracy and up-to-date information are important.
+
+Common applications of RAG include:
+- Question answering systems over internal documents
+- Chatbots for customer support
+- Knowledge assistants for companies
+- Legal and medical information systems
+- Research assistants for summarizing papers
+- AI tools that answer questions over PDFs, databases, or manuals
+
+By using retrieval, RAG reduces hallucinations and allows models to cite their sources.
