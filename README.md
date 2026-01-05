@@ -113,12 +113,12 @@ Sample prompt:
 ## 🖼️ Example Output
 
 ### 🔡 Ingestion Output
+![RAG QA Success Output](https://github.com/ShamamahFirdous/Rag-Q-A-System/blob/main/assets/sucess%20output.png?raw=true)
 
-![Ingestion Output](assets/ingestion_output.png)
 
 ### 🤖 RAG QA Output
+![RAG Demo Output](https://github.com/ShamamahFirdous/Rag-Q-A-System/blob/main/assets/answer.png?raw=true)
 
-![RAG Demo Output](assets/rag_demo_answer.png)
 
 ---
 
